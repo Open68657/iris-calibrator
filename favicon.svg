@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <style>@media (prefers-color-scheme: dark) { .k { fill: #4A4546; } }</style>
+  <clipPath id="r"><rect width="32" height="32" rx="7"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="16" height="16" fill="#00AEEF"/>
+    <rect x="16" width="16" height="16" fill="#EC008C"/>
+    <rect y="16" width="16" height="16" fill="#FFF200"/>
+    <rect class="k" x="16" y="16" width="16" height="16" fill="#231F20"/>
+  </g>
+</svg>
